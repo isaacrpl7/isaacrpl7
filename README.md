@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=isaacrpl7&style=flat-square&color=blue" alt=""/>
   <h1>
     Welcome, I'm Isaac Reinaldo!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
