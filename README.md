@@ -68,7 +68,7 @@ I worked as a Django developer of União Rações, a system that managed and cal
 ```python
 from datetime import date
 start_date = date(2020, 08, 01)
-end_date = date.(2020, 12, 01)
+end_date = date(2020, 12, 01)
 ```
 
 ---
