@@ -47,6 +47,32 @@ console.log(myTechnologies(rightToken))
 
 
 ## Experience
+### Tech Intern
+<img src="./images/vtex-logo.png" align="left" width="150px">
+
+I've been working as a Full-Stack developer of VTEX, building and deploying projects for the growth of the company. Here I could learn even more about Full Stack development and automation of processes. I've used Postgresql, Nodejs, React, Python, MongoDB, Docker and libraries like Stripe, Pandas, ChartJS, and some others.
+
+```python
+from datetime import date
+start_date = date(2022, 04, 01)
+today = date.today()
+```
+
+---
+
+### Front-End developer
+<img src="./images/psh-logo.png" align="left" width="150px">
+
+I've been working as a Front-End developer on SGEOL, a huge system made to monitor geographic data in Brazil, like water scarcity, progress of government constructions and works, budgets and spendings. All of this was possible with the construction of a complex API and a lot of dashboards. Here I could learn about VueJS, map libraries like Leaflet, and API consumption and API architecture best practices including security.
+
+```python
+from datetime import date
+start_date = date(2022, 04, 01)
+today = date(2022, 12, 01)
+```
+
+---
+
 ### Web developer
 <img src="./images/suvepi-logo.png" align="left" width="150px">
 
@@ -54,8 +80,10 @@ I've been working as a Full-Stack developer of [SUVEPI](https://suvige.imd.ufrn.
 
 ```python
 from datetime import date
-start_date = date(2021, 04, 01)
-today = date.today()
+start_date1 = date(2021, 04, 01)
+end_date1 = date(2022, 03, 01)
+start_date2 = date(2023, 03, 01)
+current = date.today()
 ```
 
 ---
