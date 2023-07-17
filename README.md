@@ -61,7 +61,7 @@ today = date.today()
 ---
 
 ### Front-End developer
-<img src="./images/psh-logo.png" align="left" width="150px">
+<img src="./images/psh-logo.png" align="right" width="150px">
 
 I've been working as a Front-End developer on SGEOL, a huge system made to monitor geographic data in Brazil, like water scarcity, progress of government constructions and works, budgets and spendings. All of this was possible with the construction of a complex API and a lot of dashboards. Here I could learn about VueJS, map libraries like Leaflet, and API consumption and API architecture best practices including security.
 
